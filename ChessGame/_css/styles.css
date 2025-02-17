@@ -46,7 +46,7 @@ span[id*=p-]{
 
 .color-path{
     border: 2px solid #7c8bc4;
-    background-color: yellow !important;
+    background-color: rgb(191, 0, 255) !important;
 }
 
 .kill-cell-color{
